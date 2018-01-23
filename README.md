@@ -11,7 +11,7 @@ on it. The repository contains the following files:
 * a few examples of screenshots and corresponding .JSON files,
 * the full report (in Slovene) of the progress and attained knowledge during the internship.
 
-Special thanks to Frac Novak and Computer Systems Department at Institute of Jožef Stefan for making this 
+Special thanks to Franc Novak and Computer Systems Department at Institute of Jožef Stefan for making this 
 internship possible as well as to Rok Bajec who kindly helped me with C# and Visual Studio.
 
 ### Author: Petra Poklukar
